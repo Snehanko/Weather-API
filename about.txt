@@ -1,0 +1,1 @@
+this is weather app to find the weather of a input city
